@@ -24,7 +24,7 @@ export default function App () {
                                component={CreateComponentPage} exact />
 
                         <Route render={() => (
-                            <div className="text-center mt-5">
+                            <div className="text-center p-5 text-white">
                                 <h1>404</h1>
                                 <p>Page not found</p>
                             </div>

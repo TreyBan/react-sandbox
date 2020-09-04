@@ -12,8 +12,8 @@ const initialState = {
         },
         {
             id: 2,
-            name: 'Button 2',
-            description: 'The button.',
+            name: 'NavBar',
+            description: 'The navbar.',
             code: '',
             img: img
         },
