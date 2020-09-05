@@ -42,6 +42,10 @@ body {
     color: aliceblue;
 }
 
+.card {
+    background-color: #111111;
+}
+
 .item-text-background {
     position: absolute;
     right: 0;
@@ -63,5 +67,4 @@ body {
 .list-item:hover {
     border: 4px #D28927 solid;
     border-radius: 4px;
-    box-shadow: #000000 0 10px 1rem;
 }
